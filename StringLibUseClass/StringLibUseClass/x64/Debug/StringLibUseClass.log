@@ -1,0 +1,17 @@
+﻿  StringLibUseClass.cpp
+C:\Users\Technosoft\source\repos\StringLibUseClass\StringLibUseClass\clsStrig.h(65,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringLibUseClass.cpp')
+  
+C:\Users\Technosoft\source\repos\StringLibUseClass\StringLibUseClass\clsStrig.h(89,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'StringLibUseClass.cpp')
+  
+C:\Users\Technosoft\source\repos\StringLibUseClass\StringLibUseClass\clsStrig.h(287,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringLibUseClass.cpp')
+  
+C:\Users\Technosoft\source\repos\StringLibUseClass\StringLibUseClass\clsStrig.h(309,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringLibUseClass.cpp')
+  
+C:\Users\Technosoft\source\repos\StringLibUseClass\StringLibUseClass\clsStrig.h(391,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'StringLibUseClass.cpp')
+  
+  StringLibUseClass.vcxproj -> C:\Users\Technosoft\source\repos\StringLibUseClass\x64\Debug\StringLibUseClass.exe
